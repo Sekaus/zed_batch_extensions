@@ -368,6 +368,10 @@ version = "0.1.2"
 submodule = "extensions/basher"
 version = "0.0.5"
 
+[batch]
+submodule = "extensions/batch_zed_extension"
+version = "0.0.0"
+
 [batman]
 submodule = "extensions/batman"
 version = "0.0.3"

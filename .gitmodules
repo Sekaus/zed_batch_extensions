@@ -362,6 +362,10 @@
 	path = extensions/basher
 	url = https://github.com/zed-extensions/bash.git
 
+[submodule "extensions/batch_zed_extension"]
+	path = extensions/batch_zed_extension
+	url = https://github.com/Sekaus/batch_zed_extension.git
+
 [submodule "extensions/batman"]
 	path = extensions/batman
 	url = https://github.com/devzaidi/batman-theme-zed
